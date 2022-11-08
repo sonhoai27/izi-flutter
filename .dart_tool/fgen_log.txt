@@ -1,0 +1,5 @@
+2022-10-30 10:20:42.070561  : FileSystemException: Cannot open file, path = '/Users/son/Data/Projects/iZi/izi-flutter/pubspec.yaml' (OS Error: No such file or directory, errno = 2)
+2022-10-30 10:21:46.008743  : FileSystemException: Cannot open file, path = '/Users/son/Data/Projects/iZi/izi-flutter/pubspec.yaml' (OS Error: No such file or directory, errno = 2)
+2022-10-30 10:22:50.579963  : FileSystemException: Cannot open file, path = '/Users/son/Data/Projects/iZi/izi-flutter/pubspec.yaml' (OS Error: No such file or directory, errno = 2)
+2022-10-30 10:24:05.136981  : FileSystemException: Cannot open file, path = '/Users/son/Data/Projects/iZi/izi-flutter/pubspec.yaml' (OS Error: No such file or directory, errno = 2)
+2022-10-30 10:24:30.417424  : FileSystemException: Cannot open file, path = '/Users/son/Data/Projects/iZi/izi-flutter/pubspec.yaml' (OS Error: No such file or directory, errno = 2)

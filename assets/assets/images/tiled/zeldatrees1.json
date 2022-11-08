@@ -1,0 +1,14 @@
+{ "columns":1,
+ "image":"zeldatrees.png",
+ "imageheight":79,
+ "imagewidth":80,
+ "margin":0,
+ "name":"zeldatrees",
+ "spacing":0,
+ "tilecount":1,
+ "tiledversion":"1.9.0",
+ "tileheight":48,
+ "tilewidth":48,
+ "type":"tileset",
+ "version":"1.8"
+}

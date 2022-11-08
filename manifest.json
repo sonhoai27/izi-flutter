@@ -1,6 +1,6 @@
 {
-    "name": "iziverse",
-    "short_name": "iziverse",
+    "name": "play",
+    "short_name": "play",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
